@@ -1,6 +1,6 @@
 {
   "name": "vue-scroll-to-top-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "一个 Vue 的滚动到顶部的容器组件（不提供 UI 显示）",
   "repository": {
     "type": "git",
@@ -8,7 +8,7 @@
   },
   "author": "rxliuli",
   "private": false,
-  "license": "ISC",
+  "license": "MIT",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
