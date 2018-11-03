@@ -7,7 +7,7 @@
     "url": "https://github.com/rxliuli/vue-scroll-to-top-component"
   },
   "author": "rxliuli",
-  "private": true,
+  "private": false,
   "license": "ISC",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
